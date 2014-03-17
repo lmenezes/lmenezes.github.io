@@ -1,0 +1,32 @@
+.container {
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 14%;
+}
+
+.profile-badges {
+	padding-top: 10px;
+}
+
+.profile-badge {
+	padding-left: 14px;
+	padding-right: 14px;
+	font-size: 40px;
+	display: inline-block;
+	color: #C0C0C0;
+}
+
+.profile-badge > a {
+	color: #C0C0C0;
+}
+
+.profile-badge > a:hover {
+	color: #444444;
+	text-decoration: none;
+}
+
+.name {
+	font-size: 48px;
+	font-weight: 300;
+	color: #444444;
+}
