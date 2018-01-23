@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lmenezes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lmenezes.com
+  * I am lmenezes (https://keybase.io/lmenezes) on keybase.
+  * I have a public key ASDmglLVGOoqtgvJ4XDIusW7-HsoJLbkbsKI1Fo4CpHMswo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e68252d518ea2ab60bc9e170c8bac5bbf87b2824b6e46ec288d45a380a91ccb30a",
+      "host": "keybase.io",
+      "kid": "0120e68252d518ea2ab60bc9e170c8bac5bbf87b2824b6e46ec288d45a380a91ccb30a",
+      "uid": "bb87de3353ee43d458df45002b625819",
+      "username": "lmenezes"
+    },
+    "merkle_root": {
+      "ctime": 1516710846,
+      "hash": "d957bf5b36c6c42e0b6581dcfb90ca3731446261e62edc4e82e0403b11ca706c42969d7c11a3d28fbdfc20f8c56a565edd4a698a59e361b82e566e00aa36cdea",
+      "hash_meta": "431cbb116f9209f30ed2dac0169cf1d344627a0b200df5631017f1e4452e5bf4",
+      "seqno": 1963623
+    },
+    "service": {
+      "hostname": "lmenezes.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516710856,
+  "expire_in": 504576000,
+  "prev": "6eafd20920e8441e26654a4dfdabc7cb8fc43782858a5478d3dd7ef0026cab38",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5oJS1RjqKrYLyeFwyLrFu/h7KCS25G7CiNRaOAqRzLMKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTY4MjUyZDUxOGVhMmFiNjBiYzllMTcwYzhiYWM1YmJmODdiMjgyNGI2ZTQ2ZWMyODhkNDVhMzgwYTkxY2NiMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTY4MjUyZDUxOGVhMmFiNjBiYzllMTcwYzhiYWM1YmJmODdiMjgyNGI2ZTQ2ZWMyODhkNDVhMzgwYTkxY2NiMzBhIiwidWlkIjoiYmI4N2RlMzM1M2VlNDNkNDU4ZGY0NTAwMmI2MjU4MTkiLCJ1c2VybmFtZSI6ImxtZW5lemVzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE2NzEwODQ2LCJoYXNoIjoiZDk1N2JmNWIzNmM2YzQyZTBiNjU4MWRjZmI5MGNhMzczMTQ0NjI2MWU2MmVkYzRlODJlMDQwM2IxMWNhNzA2YzQyOTY5ZDdjMTFhM2QyOGZiZGZjMjBmOGM1NmE1NjVlZGQ0YTY5OGE1OWUzNjFiODJlNTY2ZTAwYWEzNmNkZWEiLCJoYXNoX21ldGEiOiI0MzFjYmIxMTZmOTIwOWYzMGVkMmRhYzAxNjljZjFkMzQ0NjI3YTBiMjAwZGY1NjMxMDE3ZjFlNDQ1MmU1YmY0Iiwic2Vxbm8iOjE5NjM2MjN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibG1lbmV6ZXMuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNjcxMDg1NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI2ZWFmZDIwOTIwZTg0NDFlMjY2NTRhNGRmZGFiYzdjYjhmYzQzNzgyODU4YTU0NzhkM2RkN2VmMDAyNmNhYjM4Iiwic2Vxbm8iOjUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA7DpWqh3T26+9ty0XS1M09g+NrHpm2mVG2fqYhCIXNgAaEqjnl4RN2r0RD8EAH7qpD2utB1WM5oWmwFEV+3V7DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHPQS6eP1OrDX5lMoHH1EoUBsjE3dP+zthpH8hUC+WLQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmenezes
+
+==================================================================
